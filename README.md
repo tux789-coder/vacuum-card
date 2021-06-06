@@ -194,6 +194,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Xiaomi Mi Robot 1S
 - Xiaomi Mi Roborock V1 (SDJQR02RR)
 - Xiaomi Mijia 1C
+- Roomba 616
 - Roomba 675
 - Roomba 960
 - Roomba 981
